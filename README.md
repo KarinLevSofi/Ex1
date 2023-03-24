@@ -1,2 +1,2 @@
-# Ex1 - by Karin Lev Sofi
+# Ex1 - Karin Lev Sofi
 ## מטלה ראשונה בקורס כרייה וניתוח נתונים מתקדם בפייתון 
